@@ -1,6 +1,6 @@
 # Changelog
 
-6.1.0 - 2023-01-18
+6.1.0 - 2023-01-18 o
 ---------
 - added plugin test --plugin-test
 - added new plugin: api_censys, certsh
